@@ -1,4 +1,6 @@
-# car 3d
+# car3d
+
+Experiment with THREE.js. Credits to Hunor Marton Borbely https://www.freecodecamp.org/news/three-js-tutorial/.
 
 Local start:
 
